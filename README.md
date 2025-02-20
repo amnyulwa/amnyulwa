@@ -8,3 +8,6 @@
 amnyulwa/amnyulwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+llama3-3.llamameta.net/*?Policy=eyJTdGF0ZW1lbnQiOlt7InVuaXF1ZV9oYXNoIjoiNHo0aDA3ampnZWlwamJwcWh0Y3IwZHA4IiwiUmVzb3VyY2UiOiJodHRwczpcL1wvbGxhbWEzLTMubGxhbWFtZXRhLm5ldFwvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0MDI1Mzk5M319fV19&Signature=BS45AoaJ9sOwocqtYapqMlICDTg84XtcVFz6QaRAZt9DmMDPiNYhHZHpGBervYhdj91Gju1mFLkjK2RXFuxO1zn0el4Oe3fAtqvYRuuhyGHS7GWJxFkO-3vPMYFVqtX34Rr8HW0x1Jj%7ETlEoTGqkcXL2nOyd5zWXqM1q5vyiPsc3h7b75Q1qmLKRG5qUHVt28jJXjkWJNbF6xvjVmWyAioRgRx3PKPYUC540a-SFHDyhMXPyCGZi8aLw8-GP8baOzxuUmIR%7E8ix7XUHScNLrSAgixVbl%7EruRvQsXhha01s%7EhJRb0N7at6ob9EfgPlbUIgk2Nowkf0HtBTXf30y96gw__&Key-Pair-Id=K15QRJLYKIFSLZ&Download-Request-ID=1040484234669397
+
